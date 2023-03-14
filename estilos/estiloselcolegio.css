@@ -1,0 +1,21 @@
+#subtit{
+    text-align: center;
+    margin: 30px;
+    font-size: 20px;
+    padding: 8px;
+    width: 96%;
+    font-family: serif;
+    background-color: #bc8fbc;
+    
+}
+#img{
+    display: inline-block;
+    width: 28%;
+    float: left;
+}
+p{
+    text-align: justify;
+    font-size: 17px;
+    margin: 0px;
+    font-family:sans-serif;
+}

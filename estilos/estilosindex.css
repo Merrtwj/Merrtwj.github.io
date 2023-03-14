@@ -1,0 +1,44 @@
+#logo1{
+    display: inline-block;
+    width: 15%;
+    float: left;
+}
+#titulo{
+    display: inline-block;
+    width: 60%;
+    text-align: center;
+}
+#logo2{
+    display: inline-block;
+    width: 12%;
+    text-align: right;
+    
+}
+#barra{
+    clear: both;
+    padding: 20px;
+    width: 150%;
+}
+.menu{
+    display: inline-block;
+    width: 10%;
+    background-color:#48adc9;
+    font-size: 20px;
+    text-align: center;
+    border: ridge;
+}
+#marko{
+    width: 98%;
+    padding: 8px;
+    height: 400px;
+    background-color: #aad8aa;
+}
+#pie{
+    text-align: center;
+    background-color: #b0c4de; 
+    font-size: 20px;
+    border: groove;
+}
+body{
+    background-color: #b0f6f2;
+}
